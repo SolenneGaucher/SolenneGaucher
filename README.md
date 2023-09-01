@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolenneGaucher
-- 👀 I’m interested in Fairness, Bandit Algorithms, and Link Prediction
+- 👀 I’m interested in Statistical Fairness and Bandit Algorithms.
 - 📫 How to reach me : solenne.gaucher"at"math.u-psud.fr
 
 <!---
